@@ -10,6 +10,9 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
+  ![HandleBars](https://img.shields.io/badge/-HandleBars-333333?style=flat&logo=handlebarsdotjs)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
