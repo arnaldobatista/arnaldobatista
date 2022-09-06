@@ -6,24 +6,24 @@
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br">UNOPAR</a>.
 - 💼 &nbsp; Trabalhando como **TI e Gestão de Qualidade** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript, Angular, React Next, Node, HTML, CSS, jQuery, Bootstrap, MySQL**.
-
+ 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
-  ![HandleBars](https://img.shields.io/badge/-HandleBars-333333?style=flat&logo=handlebarsdotjs)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  [![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)](https://nodejs.org/en/)
+  [![HandleBars](https://img.shields.io/badge/-HandleBars-333333?style=flat&logo=handlebarsdotjs)](https://handlebarsjs.com/)
+  [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
+  [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
