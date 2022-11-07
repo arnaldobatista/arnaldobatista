@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br">UNOPAR</a>.
 - 💼 &nbsp; Trabalhando como **TI e Gestão de Qualidade** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, Angular, React Next, Node, HTML, CSS, jQuery, Bootstrap, MySQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, React, Node, HTML, CSS, Bootstrap, MySQL**.
  
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
