@@ -4,11 +4,12 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **4º Periodo - Análise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br">UNOPAR</a>.
-- 💼 &nbsp; Trabalhando como **Dev Junior** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, TypeScript, React, React Native, NodeJS, MySQL**.
+- 💼 &nbsp; Trabalhando como **Dev Full Stack Junior** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, JavaScript, React, React Native, NodeJS, MySQL**.
  
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   [![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)](https://nodejs.org/en/)
