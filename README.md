@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **4º Periodo - Análise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br">UNOPAR</a>.
-- 💼 &nbsp; Trabalhando como **Dev Full Stack Junior** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
+- 💼 &nbsp; Trabalhando como **Dev Full Stack** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TypeScript, JavaScript, React, React Native, NodeJS, MySQL**.
  
 <h3> :rocket: &nbsp;Minhas Skills </h3>
