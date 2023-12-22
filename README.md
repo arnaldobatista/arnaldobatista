@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **4º Periodo - Análise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br">UNOPAR</a>.
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br">UNOPAR</a>.
+- 🎓 &nbsp; Engenharia de Software (2024 - Carregando...) ** na <a href="https://www.unopar.com.br">UNOPAR</a>.
 - 💼 &nbsp; Trabalhando como **Dev Full Stack** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TypeScript, JavaScript, React, React Native, NodeJS, MySQL**.
  
