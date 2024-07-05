@@ -13,6 +13,7 @@
 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   [![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)](https://nodejs.org/en/)
   [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
