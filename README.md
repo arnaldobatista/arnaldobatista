@@ -7,7 +7,7 @@
 - 🎓 &nbsp; 5º Periodo - Engenharia de Software na <a href="https://www.unopar.com.br">UNOPAR</a>.
 - 🔓 &nbsp; Responsavel por encontrar uma das maiores brechas de segurança da <a href="https://www.nuvemshop.com.br/">NUVEMSHOP</a>.
 - 💼 &nbsp; Trabalhando como **Dev Full Stack** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, JavaScript, React, React Native, NodeJS, MySQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, JavaScript, C#, React, React Native, NodeJS, MySQL**.
  
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
