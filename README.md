@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br">UNOPAR</a>.
-- 🎓 &nbsp; 6º Periodo - Engenharia de Software na <a href="https://www.unopar.com.br">UNOPAR</a>.
+- 🎓 &nbsp; 7º Periodo - Engenharia de Software na <a href="https://www.unopar.com.br">UNOPAR</a>.
 - 🔓 &nbsp; Responsável por encontrar uma das maiores brechas de segurança da <a href="https://www.nuvemshop.com.br/">NUVEMSHOP</a>.
 - 💼 &nbsp; Trabalhando como **Dev Full Stack** na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>
 
