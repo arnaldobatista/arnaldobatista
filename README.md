@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unopar.com.br">UNOPAR</a>.
-- 🎓 &nbsp; Cursando Engenharia de Software na <a href="https://www.anhanguera.com">ANHANGUERA</a> (previsão de conclusão: junho/2025).
+- 🎓 &nbsp; Formado em Engenharia de Software na <a href="https://www.anhanguera.com">ANHANGUERA</a>
 - 🔓 &nbsp; Identifiquei uma das maiores brechas de segurança da <a href="https://www.nuvemshop.com.br/">NUVEMSHOP</a>.
 - 💼 &nbsp; Desenvolvedor Full Stack na <a href="https://www.alternativamais.com.br">Alternativa Mais</a> e estagiário na <a href="https://www.idduto.com.br">Idduto</a>.
 
