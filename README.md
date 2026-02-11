@@ -4,8 +4,10 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unopar.com.br">UNOPAR</a>.
-- 🎓 &nbsp; Formado em Engenharia de Software na <a href="https://www.anhanguera.com">ANHANGUERA</a>
-- 🔓 &nbsp; Identifiquei uma das maiores brechas de segurança da <a href="https://www.nuvemshop.com.br/">NUVEMSHOP</a>.
+- 🎓 &nbsp; Formado em Engenharia de Software pela <a href="https://www.anhanguera.com">ANHANGUERA</a>
+- 🎓 &nbsp; Pós em Ciência de Dados e Analytics Avançados pela <a href="https://www.unopar.com.br">UNOPAR</a>.
+- 🎓 &nbsp; Pós em Arquitetura e Governança de Dados pela <a href="https://www.unopar.com.br">UNOPAR</a>.
+- 🔓 &nbsp; Identifiquei uma das maiores brechas de segurança na <a href="https://www.nuvemshop.com.br/">NUVEMSHOP</a>.
 - 💼 &nbsp; Desenvolvedor Full Stack na <a href="https://www.alternativamais.com.br">Alternativa Mais</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
