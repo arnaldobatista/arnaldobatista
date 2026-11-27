@@ -15,7 +15,6 @@ A maior parte do meu código é fechado (produto e cliente), mas dá para descre
 | **Operação de campo** | Vistorias técnicas com checklist e foto, inventário por técnico, frota e abastecimento, com integrações reais de NF-e por IMAP, ponto eletrônico e WhatsApp — um dos sistemas passa de 175 mil linhas, 89 entidades e 123 migrations |
 | **Videomonitoramento com visão computacional** | Ingestão de câmeras em **Go** + ffmpeg, inferência em **NVIDIA DeepStream** (TensorRT, ONNX, YOLOv9, leitura de placas via Triton), API **NestJS** e painel **Next.js** com vídeo ao vivo por **WebRTC** |
 | **Acessibilidade** | Leitor de EPUB com narração sincronizada palavra a palavra (apps nativos iOS e Android) e um app de macOS que escuta o áudio de uma transmissão ao vivo, transcreve e exibe um avatar 3D sinalizando em **Libras** direto no OBS — tudo processado local |
-| **Inscrições e ensino** | Plataforma multi-tenant de inscrição em eventos e cursos com módulo de ensino: lotes de preço, cupons, check-in, controle de presença, avaliações e certificados — 188 endpoints e 32 entidades |
 | **Interação natural** | Controle do mouse por gestos de mão via webcam (**MediaPipe** + helper nativo em **Rust**), com inferência 100% local — não grava imagem |
 
 O padrão do back-end é **NestJS + TypeORM/Prisma + PostgreSQL**; o do front, **Next.js / React + Tailwind**. Repliquei esse esqueleto (auth, RBAC, auditoria, multiempresa) em vários produtos e acabei extraindo num template próprio.
